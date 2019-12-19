@@ -31,9 +31,10 @@ public class DayTwelve {
     }
 
     public static void main(String[] args) {
-        while (counter < 3000) {
+        while (counter < 2270) {
             step();
             counter++;
         }
+        step();
     }
 }

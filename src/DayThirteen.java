@@ -1,6 +1,4 @@
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Scanner;
 
 public class DayThirteen {
     public static int[][] screen = new int[50][20];
@@ -23,7 +21,6 @@ public class DayThirteen {
     }
 
     public static void compute(long[] input) {
-        Scanner scan = new Scanner(System.in);
         long parameter1;
         long parameter2;
         int x = -1;
@@ -61,9 +58,7 @@ public class DayThirteen {
             }
             else if (opcodeFunction == 3) {
                 int joystick;
-                if (currentBallX > currentPaddleX) joystick = 1;
-                else if (currentBallX < currentPaddleX) joystick = -1;
-                else joystick = 0;
+                joystick = Integer.compare(currentBallX, currentPaddleX);
                 if (opcodeArray[2] == 0) input[(int) input[opcodeLocation + 1]] = joystick;
                 else input[relativeBase + (int) input[opcodeLocation + 1]] = joystick;
                 jumpBy = 2;
@@ -191,7 +186,6 @@ public class DayThirteen {
             }
             System.out.println();
         }
-        System.out.println(numOfBlocks);
     }
 
     public static int[] intToArray(long input){
