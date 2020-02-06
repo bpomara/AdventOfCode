@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0a2f566-2d65-4e9c-9621-6e69c9c02994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DayFifteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DaySeventeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DaySixteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/daySeventeen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayNineteen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/DayNine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Advent of Code/DayNine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DayNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DayNine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +42,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DaySeventeen">
-    <configuration name="DayFourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayFourteen" />
+  <component name="RunManager" selected="Application.DayNineteen">
+    <configuration name="DayNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayNine" />
+      <module name="Advent of Code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DayNineteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayNineteen" />
       <module name="Advent of Code" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,13 +71,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DayTwelve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayTwelve" />
-      <module name="Advent of Code" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PathFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PathFinder" />
       <module name="Advent of Code" />
@@ -81,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayNineteen" />
+        <item itemvalue="Application.DayNine" />
         <item itemvalue="Application.DaySeventeen" />
         <item itemvalue="Application.PathFinder" />
         <item itemvalue="Application.DaySixteen" />
-        <item itemvalue="Application.DayTwelve" />
-        <item itemvalue="Application.DayFourteen" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576781363306</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day Seventeen">
+      <created>1580961803067</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580961803067</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,7 +183,8 @@
     <MESSAGE value="Day Eleven" />
     <MESSAGE value="Day Thirteen" />
     <MESSAGE value="Day Fourteen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day Fourteen" />
+    <MESSAGE value="Day Seventeen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day Seventeen" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="73" key="#Project_Structure" timestamp="1575248803011">
@@ -188,66 +195,66 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576045266212" />
-    <state x="43" y="0" key="CommitChangelistDialog2" timestamp="1576781357721">
+    <state x="43" y="0" key="CommitChangelistDialog2" timestamp="1580961790520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="43" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576781357721" />
-    <state width="723" height="456" key="GridCell.Tab.0.bottom" timestamp="1580960876165">
+    <state x="43" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580961790520" />
+    <state width="1493" height="367" key="GridCell.Tab.0.bottom" timestamp="1580974078889">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1576046249777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1576046249777" />
-    <state width="723" height="456" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580960876165" />
-    <state width="723" height="456" key="GridCell.Tab.0.center" timestamp="1580960876165">
+    <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580974078889" />
+    <state width="1493" height="367" key="GridCell.Tab.0.center" timestamp="1580974078888">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1576046249777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.center.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1576046249777" />
-    <state width="723" height="456" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580960876165" />
-    <state width="723" height="456" key="GridCell.Tab.0.left" timestamp="1580960876165">
+    <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580974078888" />
+    <state width="1493" height="367" key="GridCell.Tab.0.left" timestamp="1580974078888">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1576046249777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.left.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1576046249777" />
-    <state width="723" height="456" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580960876165" />
-    <state width="723" height="456" key="GridCell.Tab.0.right" timestamp="1580960876165">
+    <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580974078888" />
+    <state width="1493" height="367" key="GridCell.Tab.0.right" timestamp="1580974078889">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1576046249777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.right.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1576046249777" />
-    <state width="723" height="456" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580960876165" />
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1579758196348">
+    <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580974078888" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1580964071548">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579758196348" />
-    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1579758196348">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580964071548" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1580964071532">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579758196348" />
-    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1579758196348">
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580964071532" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1580964071532">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579758196348" />
-    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1579758196348">
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580964071532" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1580964071532">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579758196348" />
-    <state x="33" y="0" key="Vcs.Push.Dialog.v2" timestamp="1576781366939">
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580964071532" />
+    <state x="33" y="0" key="Vcs.Push.Dialog.v2" timestamp="1580962179020">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="33" y="0" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1576781366939" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1580955541358">
+    <state x="33" y="0" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580962179020" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1581014636738">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580955541358" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581014636738" />
     <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575876148593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -256,9 +263,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="426" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1575959289627" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1576778815407">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580965379357">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1576778815407" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580965379357" />
   </component>
 </project>
