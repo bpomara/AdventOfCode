@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0a2f566-2d65-4e9c-9621-6e69c9c02994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DayTwentyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayTwentyTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayTwentyTwoExperimental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dayTwentyTwo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/DayNine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Advent of Code/DayNine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/META-INF/Advent of Code.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +42,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DayTwentyOne">
-    <configuration name="DayNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayNine" />
-      <module name="Advent of Code" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DayTwentyTwoExperimental">
     <configuration name="DayNineteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayNineteen" />
       <module name="Advent of Code" />
@@ -71,8 +64,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PathFinder" />
+    <configuration name="DayTwentyTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayTwentyTwo" />
+      <module name="Advent of Code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DayTwentyTwoExperimental" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayTwentyTwoExperimental" />
       <module name="Advent of Code" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayTwentyTwoExperimental" />
+        <item itemvalue="Application.DayTwentyTwo" />
         <item itemvalue="Application.DayTwentyOne" />
         <item itemvalue="Application.DaySeventeen" />
         <item itemvalue="Application.DayNineteen" />
-        <item itemvalue="Application.DayNine" />
-        <item itemvalue="Application.PathFinder" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580961803067</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Day Twenty One">
+      <created>1582079665708</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582079665708</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,7 +191,8 @@
     <MESSAGE value="Day Thirteen" />
     <MESSAGE value="Day Fourteen" />
     <MESSAGE value="Day Seventeen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day Seventeen" />
+    <MESSAGE value="Day Twenty One" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day Twenty One" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="73" key="#Project_Structure" timestamp="1575248803011">
@@ -195,42 +203,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581540053737" />
-    <state x="43" y="0" key="CommitChangelistDialog2" timestamp="1580961790520">
+    <state x="43" y="0" key="CommitChangelistDialog2" timestamp="1582079665000">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="43" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580961790520" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582079574555">
+    <state x="43" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582079665000" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582762635512">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1576046249777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1576046249777" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582079574555" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582079574555">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582762635512" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582762635512">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1576046249777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.center.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1576046249777" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582079574555" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582079574555">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582762635512" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582762635512">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1576046249777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.left.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1576046249777" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582079574555" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582079574555">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582762635512" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582762635512">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1576046249777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="836" height="206" key="GridCell.Tab.0.right.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1576046249777" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582079574555" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582762635512" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1580964071548">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -247,14 +255,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580964071532" />
-    <state x="33" y="0" key="Vcs.Push.Dialog.v2" timestamp="1580962179020">
+    <state x="33" y="0" key="Vcs.Push.Dialog.v2" timestamp="1582079669731">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="33" y="0" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580962179020" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1582069873528">
+    <state x="33" y="0" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582079669731" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1583687345229">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582069873528" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583687345229" />
     <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575876148593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
