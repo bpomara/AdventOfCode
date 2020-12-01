@@ -6,53 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a2f566-2d65-4e9c-9621-6e69c9c02994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AoC2019/DaySixteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AoC2019/DayTwentyFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AoC2019/DayTwentyFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AoC2019/DayTwentyThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AoC2019/DayTwentyTwoREVERSE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AoC2019/dayTwentyFour.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AoC2020/dayOne.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/DayEight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/DayFive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/DayFour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/DayNine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/DayOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/DaySeven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/DaySix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/DayTen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/DayThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/DayTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/dayOne.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/daySix.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Advent of Code/dayTen.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayEight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayEleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayEleven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayFifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayFifteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayFourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayFourteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayNine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayNineteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayNineteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DaySeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DaySeven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DaySeventeen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DaySeventeen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DaySix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DaySix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DaySixteen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayTen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayThirteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayThirteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayTwelve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayTwelve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayTwentyOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayTwentyOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayTwentyTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayTwentyTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/DayTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dayFourteen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/dayFourteen.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dayOne.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/dayOne.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/daySeventeen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/daySeventeen.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/daySix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/daySix.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dayTen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/dayTen.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dayTwentyTwo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2019/dayTwentyTwo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AoC2020/DayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2020/DayOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +53,26 @@
       <recent name="C:\Users\benom\IdeaProjects\AdventOfCode\src\2019" />
       <recent name="C:\Users\benom\IdeaProjects\AdventOfCode\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DayOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AoC2020.DayOne" />
+      <module name="Advent of Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AoC2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DayOne" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -173,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583687512573</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2020 Setup">
+      <created>1606723458181</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606723458181</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,33 +211,42 @@
     <MESSAGE value="Day Seventeen" />
     <MESSAGE value="Day Twenty One" />
     <MESSAGE value="Day Twenty Two" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day Twenty Two" />
+    <MESSAGE value="2020 Setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020 Setup" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="38" width="1089" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606723239557">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="447" y="38" width="1089" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606723239557" />
-    <state width="723" height="206" key="GridCell.Tab.0.bottom" timestamp="1606723222866">
+    <state x="765" y="0" key="CommitChangelistDialog2" timestamp="1606723456675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606723222866" />
-    <state width="723" height="206" key="GridCell.Tab.0.center" timestamp="1606723222864">
+    <state x="765" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606723456675" />
+    <state width="723" height="206" key="GridCell.Tab.0.bottom" timestamp="1606723509148">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606723222864" />
-    <state width="723" height="206" key="GridCell.Tab.0.left" timestamp="1606723222863">
+    <state width="723" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606723509148" />
+    <state width="723" height="206" key="GridCell.Tab.0.center" timestamp="1606723509148">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606723222863" />
-    <state width="723" height="206" key="GridCell.Tab.0.right" timestamp="1606723222865">
+    <state width="723" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606723509148" />
+    <state width="723" height="206" key="GridCell.Tab.0.left" timestamp="1606723509148">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606723222865" />
+    <state width="723" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606723509148" />
+    <state width="723" height="206" key="GridCell.Tab.0.right" timestamp="1606723509148">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606723509148" />
     <state x="498" y="0" key="SettingsEditor" timestamp="1606722282085">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606722282085" />
+    <state x="722" y="148" key="Vcs.Push.Dialog.v2" timestamp="1606723466055">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606723466055" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
