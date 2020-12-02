@@ -6,9 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a2f566-2d65-4e9c-9621-6e69c9c02994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AoC2020/dayOne.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AoC2020/DayTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AoC2020/dayTwo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AoC2020/DayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2020/DayOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <recent name="C:\Users\benom\IdeaProjects\AdventOfCode\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DayTwo">
     <configuration name="DayOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AoC2020.DayOne" />
       <module name="Advent of Code" />
@@ -68,8 +68,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DayTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AoC2020.DayTwo" />
+      <module name="Advent of Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AoC2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayTwo" />
         <item itemvalue="Application.DayOne" />
       </list>
     </recent_temporary>
@@ -156,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606723458181</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2020 Day One">
+      <created>1606799701566</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606799701566</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,41 +233,8 @@
     <MESSAGE value="Day Twenty One" />
     <MESSAGE value="Day Twenty Two" />
     <MESSAGE value="2020 Setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020 Setup" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="447" y="38" width="1089" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606723239557">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="447" y="38" width="1089" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606723239557" />
-    <state x="765" y="0" key="CommitChangelistDialog2" timestamp="1606723456675">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="765" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606723456675" />
-    <state width="723" height="206" key="GridCell.Tab.0.bottom" timestamp="1606723509148">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="723" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606723509148" />
-    <state width="723" height="206" key="GridCell.Tab.0.center" timestamp="1606723509148">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="723" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606723509148" />
-    <state width="723" height="206" key="GridCell.Tab.0.left" timestamp="1606723509148">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="723" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606723509148" />
-    <state width="723" height="206" key="GridCell.Tab.0.right" timestamp="1606723509148">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="723" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606723509148" />
-    <state x="498" y="0" key="SettingsEditor" timestamp="1606722282085">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606722282085" />
-    <state x="722" y="148" key="Vcs.Push.Dialog.v2" timestamp="1606723466055">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="722" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606723466055" />
+    <MESSAGE value="2020 Day One" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020 Day One" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -265,6 +253,11 @@
           <url>file://$PROJECT_DIR$/src/AoC2019/DayTwentyFour.java</url>
           <line>50</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AoC2020/DayTwo.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
