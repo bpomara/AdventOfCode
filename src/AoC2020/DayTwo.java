@@ -14,7 +14,7 @@ public class DayTwo {
 	public static void fileToArrayLists() {
 		try {
 			ArrayList<Integer> inputList = new ArrayList<>();
-			File file = new File("src\\AoC2020\\dayTwo.txt");
+			File file = new File("src\\AoC2020\\inputs\\dayTwo.txt");
 			Scanner scan = new Scanner(file);
 			while (scan.hasNextLine()) {
 				String input = scan.nextLine();

@@ -6,9 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a2f566-2d65-4e9c-9621-6e69c9c02994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AoC2020/DayTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AoC2020/dayTwo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AoC2020/DayThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AoC2020/DayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2020/DayOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AoC2020/DayTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC2020/DayTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AoC2020/dayOne.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AoC2020/dayTwo.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +57,22 @@
       <recent name="C:\Users\benom\IdeaProjects\AdventOfCode\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DayTwo">
+  <component name="RunManager" selected="Application.DayThree">
     <configuration name="DayOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AoC2020.DayOne" />
+      <module name="Advent of Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AoC2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DayThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AoC2020.DayThree" />
       <module name="Advent of Code" />
       <extension name="coverage">
         <pattern>
@@ -83,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayThree" />
         <item itemvalue="Application.DayTwo" />
         <item itemvalue="Application.DayOne" />
       </list>
@@ -177,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606799701566</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2020 Day Two">
+      <created>1606887007885</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606887007885</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,7 +258,8 @@
     <MESSAGE value="Day Twenty Two" />
     <MESSAGE value="2020 Setup" />
     <MESSAGE value="2020 Day One" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020 Day One" />
+    <MESSAGE value="2020 Day Two" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020 Day Two" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -256,8 +281,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/AoC2020/DayTwo.java</url>
-          <line>40</line>
+          <line>41</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AoC2020/DayTwo.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

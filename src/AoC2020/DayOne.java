@@ -9,7 +9,7 @@ public class DayOne {
 	public static int[] fileToArray() {
 		try {
 			ArrayList<Integer> inputList = new ArrayList<>();
-			File file = new File("src\\AoC2020\\dayOne.txt");
+			File file = new File("src\\AoC2020\\inputs\\dayOne.txt");
 			Scanner scan = new Scanner(file);
 			while (scan.hasNextLine()) {
 				String input = scan.nextLine();
