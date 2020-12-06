@@ -6,8 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a2f566-2d65-4e9c-9621-6e69c9c02994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AoC2020/DayFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AoC2020/inputs/dayFive.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AoC2020/DaySix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AoC2020/inputs/daySix.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       <recent name="C:\Users\benom\IdeaProjects\AdventOfCode\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DayFive">
+  <component name="RunManager" selected="Application.DaySix">
     <configuration name="DayFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AoC2020.DayFive" />
       <module name="Advent of Code" />
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DayOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AoC2020.DayOne" />
+    <configuration name="DaySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AoC2020.DaySix" />
       <module name="Advent of Code" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DaySix" />
         <item itemvalue="Application.DayFive" />
         <item itemvalue="Application.DayFour" />
         <item itemvalue="Application.DayThree" />
         <item itemvalue="Application.DayTwo" />
-        <item itemvalue="Application.DayOne" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607062291518</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2020 Day Five">
+      <created>1607147742843</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607147742843</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,7 +313,8 @@
     <MESSAGE value="2020 Day Two" />
     <MESSAGE value="2020 Day Three" />
     <MESSAGE value="2020 Day Four" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020 Day Four" />
+    <MESSAGE value="2020 Day Five" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020 Day Five" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
