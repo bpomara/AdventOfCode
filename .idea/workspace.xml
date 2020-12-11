@@ -6,8 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a2f566-2d65-4e9c-9621-6e69c9c02994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AoC2020/DayTen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AoC2020/inputs/dayTen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AoC2020/DayEleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AoC2020/inputs/dayEleven.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,14 +56,27 @@
       <recent name="C:\Users\benom\IdeaProjects\AdventOfCode\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="AoC2020" />
       <recent name="AoC2020.inputs" />
+      <recent name="AoC2020" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DayTen">
+  <component name="RunManager" selected="Application.DayEleven">
     <configuration name="DayEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AoC2020.DayEight" />
+      <module name="Advent of Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AoC2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DayEleven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AoC2020.DayEleven" />
       <module name="Advent of Code" />
       <extension name="coverage">
         <pattern>
@@ -101,19 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DaySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AoC2020.DaySix" />
-      <module name="Advent of Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AoC2020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DayTen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AoC2020.DayTen" />
       <module name="Advent of Code" />
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayEleven" />
         <item itemvalue="Application.DayTen" />
         <item itemvalue="Application.DayNine" />
         <item itemvalue="Application.DayEight" />
         <item itemvalue="Application.DaySeven" />
-        <item itemvalue="Application.DaySix" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607493147337</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="2020 Day Ten">
+      <created>1607583959905</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607583959905</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,7 +355,8 @@
     <MESSAGE value="2020 Day Seven" />
     <MESSAGE value="2020 Day Eight" />
     <MESSAGE value="2020 Day Nine" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020 Day Nine" />
+    <MESSAGE value="2020 Day Ten" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020 Day Ten" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -377,6 +385,11 @@
           <url>file://$PROJECT_DIR$/src/AoC2020/DayTwo.java</url>
           <line>56</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AoC2020/DayEleven.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
