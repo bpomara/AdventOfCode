@@ -9,8 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a2f566-2d65-4e9c-9621-6e69c9c02994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AoC2021/DayThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AoC2021/input/dayThree.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AoC2021/DayFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AoC2021/input/dayFour.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last.edited.regexp" value="Sample  Text" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/AoC2020" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -71,7 +72,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DayThree">
+  <component name="RunManager" selected="Application.DayFour">
+    <configuration name="DayFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AoC2021.DayFour" />
+      <module name="Advent of Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AoC2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DayOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AoC2021.DayOne" />
       <module name="Advent of Code" />
@@ -121,11 +135,13 @@
     <list>
       <item itemvalue="Application.DayOne" />
       <item itemvalue="Application.DayTwo" />
-      <item itemvalue="Java Scratch.Scratch" />
       <item itemvalue="Application.DayThree" />
+      <item itemvalue="Java Scratch.Scratch" />
+      <item itemvalue="Application.DayFour" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayFour" />
         <item itemvalue="Application.DayThree" />
         <item itemvalue="Application.DayTwo" />
         <item itemvalue="Application.DayOne" />
@@ -355,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638421966914</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="2021 Day Three">
+      <created>1638511031957</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1638511031957</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,7 +424,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Day Fourteen" />
     <MESSAGE value="Day Seventeen" />
     <MESSAGE value="Day Twenty One" />
     <MESSAGE value="Day Twenty Two" />
@@ -426,7 +448,8 @@
     <MESSAGE value="2020 Day Eighteen" />
     <MESSAGE value="2021 Day One" />
     <MESSAGE value="2021 Day Two" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021 Day Two" />
+    <MESSAGE value="2021 Day Three" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021 Day Three" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -475,6 +498,16 @@
           <url>file://$PROJECT_DIR$/src/AoC2020/DayNineteen.java</url>
           <line>68</line>
           <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AoC2021/DayFour.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AoC2021/DayFour.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
