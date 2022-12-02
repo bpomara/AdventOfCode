@@ -8,10 +8,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a2f566-2d65-4e9c-9621-6e69c9c02994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AoC2022/DayOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AoC2022/input/dayOne.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b0a2f566-2d65-4e9c-9621-6e69c9c02994" name="Default Changelist" comment="2022 Day One">
+      <change afterPath="$PROJECT_DIR$/src/AoC2022/DayTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AoC2022/input/dayTwo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,15 +56,29 @@
       <recent name="C:\Users\benom\IdeaProjects\AdventOfCode\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AoC2022" />
       <recent name="AoC2021" />
       <recent name="AoC2020" />
       <recent name="AoC2020.inputs" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AoC2022.DayOne">
+  <component name="RunManager" selected="Application.AoC2022.DayTwo">
     <configuration name="AoC2022.DayOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AoC2022.DayOne" />
+      <module name="Advent of Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AoC2022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AoC2022.DayTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AoC2022.DayTwo" />
       <module name="Advent of Code" />
       <extension name="coverage">
         <pattern>
@@ -116,33 +129,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DayTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AoC2021.DayTwo" />
-      <module name="Advent of Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AoC2021.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.AoC2022.DayTwo" />
       <item itemvalue="Application.AoC2022.DayOne" />
-      <item itemvalue="Application.DayTwo" />
       <item itemvalue="Application.DayThree" />
       <item itemvalue="Application.DayFour" />
       <item itemvalue="Application.DayFive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AoC2022.DayTwo" />
         <item itemvalue="Application.AoC2022.DayOne" />
         <item itemvalue="Application.DayFive" />
         <item itemvalue="Application.DayFour" />
         <item itemvalue="Application.DayThree" />
-        <item itemvalue="Application.DayTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638682641357</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="2022 Day One">
+      <created>1669871955164</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1669871955164</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,7 +442,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Day Twenty Two" />
     <MESSAGE value="2020 Setup" />
     <MESSAGE value="2020 Day One" />
     <MESSAGE value="2020 Day Two" />
@@ -460,7 +466,8 @@
     <MESSAGE value="2021 Day Three" />
     <MESSAGE value="2021 Day Four" />
     <MESSAGE value="2021 Day Five" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021 Day Five" />
+    <MESSAGE value="2022 Day One" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022 Day One" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
