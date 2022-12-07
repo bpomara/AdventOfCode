@@ -8,8 +8,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a2f566-2d65-4e9c-9621-6e69c9c02994" name="Default Changelist" comment="2022 Day Five">
-      <change afterPath="$PROJECT_DIR$/src/AoC2022/DaySix.java" afterDir="false" />
+    <list default="true" id="b0a2f566-2d65-4e9c-9621-6e69c9c02994" name="Default Changelist" comment="2022 Day Six">
+      <change afterPath="$PROJECT_DIR$/src/AoC2022/DaySeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AoC2022/input/daySeven.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/benom/IdeaProjects/AdventOfCode&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -62,7 +63,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DaySix">
+  <component name="RunManager" selected="Application.DaySeven">
     <configuration name="AoC2022.DayFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AoC2022.DayFive" />
       <module name="Advent of Code" />
@@ -102,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AoC2022.DayTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AoC2022.DayTwo" />
+    <configuration name="DaySeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AoC2022.DaySeven" />
       <module name="Advent of Code" />
       <extension name="coverage">
         <pattern>
@@ -129,19 +130,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DaySeven" />
       <item itemvalue="Application.DaySix" />
       <item itemvalue="Application.AoC2022.DayFive" />
       <item itemvalue="Application.AoC2022.DayFour" />
       <item itemvalue="Application.AoC2022.DayThree" />
-      <item itemvalue="Application.AoC2022.DayTwo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DaySeven" />
         <item itemvalue="Application.DaySix" />
         <item itemvalue="Application.AoC2022.DayFive" />
         <item itemvalue="Application.AoC2022.DayFour" />
         <item itemvalue="Application.AoC2022.DayThree" />
-        <item itemvalue="Application.AoC2022.DayTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670218914715</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="2022 Day Six">
+      <created>1670304039053</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1670304039053</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +477,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2020 Day Four" />
     <MESSAGE value="2020 Day Five" />
     <MESSAGE value="2020 Day Six" />
     <MESSAGE value="2020 Day Seven" />
@@ -494,7 +501,8 @@
     <MESSAGE value="2022 Day Three" />
     <MESSAGE value="2022 Day Four" />
     <MESSAGE value="2022 Day Five" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022 Day Five" />
+    <MESSAGE value="2022 Day Six" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022 Day Six" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
